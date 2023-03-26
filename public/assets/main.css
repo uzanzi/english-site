@@ -1,0 +1,11 @@
+@import './base.css';
+
+html{
+    height: 100vh;
+}
+
+body{
+    height: 100%;
+    background-color: grey;
+    margin: 0;
+}
