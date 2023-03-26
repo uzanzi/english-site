@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="image-container">
-      <img src="assets/img/Snapchat-442002958.jpg" alt="photo de Ugo Zanzi">
+      <img src="/assets/img/Snapchat-442002958.jpg" alt="photo de Ugo Zanzi">
     </div>
     <div class="text">
       <h1>
